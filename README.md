@@ -1,1 +1,1 @@
-# assignment_2
+# Secret code generator
